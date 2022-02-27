@@ -1,0 +1,322 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The first lecture, of geographie, (vvhich is a description of the terestriall globe) / read publickly at Sr. Balthazar Gerbier his accademy, at Bednall-Greene.</title>
+            <author>Gerbier, Balthazar, Sir, 1592?-1667.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85920</idno>
+            <idno type="STC">Wing G559</idno>
+            <idno type="STC">Thomason E573_6</idno>
+            <idno type="STC">ESTC R206201</idno>
+            <idno type="EEBO-CITATION">99865375</idno>
+            <idno type="PROQUEST">99865375</idno>
+            <idno type="VID">165390</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85920)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165390)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 88:E573[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The first lecture, of geographie, (vvhich is a description of the terestriall globe) / read publickly at Sr. Balthazar Gerbier his accademy, at Bednall-Greene.</title>
+                  <author>Gerbier, Balthazar, Sir, 1592?-1667.</author>
+               </titleStmt>
+               <extent>[2], 12, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Gartrude Dawson, and are to be sold by Hanna Allen at the Crown in Popes-head-Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The final leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "Sept: 11".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Geography --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165390:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 76 -->
+            <p>THE FIRST LECTVRE, OF <hi>GEOGRAPHIE,</hi> (VVhich is a deſcription of the Te<g ref="char:EOLhyphen"/>reſtriall Globe) Read publickly at S<hi rend="sup">r</hi>. Balthazar Gerbier His ACADEMY, AT <hi>Bednall-Greene.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Gartrude Dawſon,</hi> and are to be ſold by <hi>Hanna Allen</hi> at the Crown in Popes-head-Alley. 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="lecture">
+            <pb facs="tcp:165390:2"/>
+            <!-- PDF PAGE 77 -->
+            <pb n="1" facs="tcp:165390:2"/>
+            <!-- PDF PAGE 77 -->
+            <head>The publick Lecture of an Introdu<g ref="char:EOLhyphen"/>ction to <hi>Geographie</hi> (which is a deſcription of the Tereſtriall Globe) read publickly at S<hi rend="sup">r</hi>. <hi>Balthazar Gerbier</hi> his Academy at <hi>Bednall Green.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>S <hi>Plato</hi> did refuſe the entry into his Academy, to thoſe that had not ſtudied <hi>Geometrie;</hi> which findes the contents of all ſort of quantity: It may juſtly be ſaid, that Fathers of Families ought not to ſuffer their Sonnes to engage themſelves to tra<g ref="char:EOLhyphen"/>vell untill they have firſt ſtudied, not onely their own home, but made themſelves acquainted with thoſe parts they are bound for; and to have pitcht on the beſt of that ſtudy: not as ſome <hi>Germains,</hi> over curious to note Steeples, and bare names of Towns (beſides thoſe of Hoſts, and the places where the beſt wines are) but the conſtitution of Empires, States, and Nations: As it is an approved prudence to enquire after the qualities and ends of men, before we treate with them.</p>
+            <p>Now as the Academie thought it moſt fit to begin the opening of Lectures with an Introduction to <hi>Coſmographie</hi> (which is a deſcription of the whole world, and conſequently, that great look<g ref="char:EOLhyphen"/>ing-glaſs declaring the marvellous works of God) To proceed with <hi>Geographie</hi> is alſo thought convenient, for that it proves as the Eye of Hiſtory, repreſenting unto us in a moment that accompliſht maſter piece, in Engliſh, the deſcription of the Earth. This art com<g ref="char:EOLhyphen"/>prehends firſt the <hi>Chorographie,</hi> which deſcribes ſome part of the Earth, or ſome Kingdome.</p>
+            <pb n="2" facs="tcp:165390:3"/>
+            <!-- PDF PAGE 78 -->
+            <p>Secondly, the <hi>Topographie,</hi> which deſcribes a Citty, or ſome other place, with the adjacent neighbour-hood.</p>
+            <p>And thirdly, <hi>Hydrographie,</hi> which deſcribes particularly the water, and its parts.</p>
+            <p>Wee muſt not make any ſcruple to ſay that to contract under our ſences the diverſitie of ſo many Monarchies that are on the Earth, and with a caſt of an Ey of ones imagination, to repreſent to ones ſelf all what the life, of number of men, and their great journeyes could not ſo truly performe, muſt needs be termed a kinde of borrowing from the all knowledge of God, in whoſe ſight all things appear.</p>
+            <p>And as he hath put in man a minde full of knowledge; that there is nothing which fits him better then thoſe objects, which may adminiſter unto him a more perfect knowledge of things created; for that he ſeeth thereby the works of the maker, and reciprocally the maker by his works, <hi>Domine, Dominus noſter quam admira<g ref="char:EOLhyphen"/>bile eſt nomen tuum in univerſa Terra?</hi> And thereby man ſee<g ref="char:EOLhyphen"/>ing ſuch great wonders frames his minde: For as from Infants, we become men; of Ignocents, reaſonable; ſo by ſtudy, wee become from ignorant, intelligent.</p>
+            <p>And to this, <hi>Geographie</hi> ſerves for eaſie ſteps, to thoſe that have their naturall ſence of ſight; for that by thoſe conducts or Chanals our minde is filled with a true diſcernment of all what appears on the ſuperficie of the Earth; the diviſion of Nations, and Shires; the ſituations whereof would otherwiſe be confuſed unto us, and conſe<g ref="char:EOLhyphen"/>quently would not prove of that uſe it is to a good Chriſtian Tra<g ref="char:EOLhyphen"/>veller.</p>
+            <div n="geometrical and historical geography" type="part">
+               <pb n="3" facs="tcp:165390:3"/>
+               <!-- PDF PAGE 78 -->
+               <head>Geographie is divided in two principall parts, in Geometricall and Hiſtoricall.</head>
+               <p>THE Geometricall, diſtinguiſhes and deſcribes all the ſurface of the Tereſtriall Globe, by certaine imaginary circles and lineaments, which doe mark the longitude and latitude; and the principal parts in the which it can be divided, to diſcourſe of it in order and clearly.</p>
+               <p>The Hiſtoricall Geographie, deſcribes the proprieties of every Region, its ſituation, its Mountains, Forreſt, and Ri<g ref="char:EOLhyphen"/>vers; the temperature of the Ayre, the nature of the Soyle; what Metals, and what Plants it produceth, what Fruits, what Animals; of what complection the inhabitants are, what their Religion is, the form of their Politick State, their means, their forces, what Towns, and what Caſtles there are, &amp;c.</p>
+               <p>On the ſurface of the Tereſtriall Globe, there are Poles, Hemiſphears, Circles, Zones, Climats, Parallels, Degrees, Inhabitants, Regions, Windes, and Meaſures.</p>
+               <p>Poles are the extremity of an imagenary ſtraight line paſ<g ref="char:EOLhyphen"/>ſing through the Center of the Earth; the one is Artick, and the other Antarctick.</p>
+               <p>The Artick Pole is that which appeareth alwayes in our Hemiſpheare, and is named in diverſe manners, as Borealis, or Boreus, and Aquilonaris of the Northern Winde, which blows from that part. It is alſo called Septentrionalis, of the ſeven ſtars, by the Latins called <hi>Triones,</hi> and by us vulgar<g ref="char:EOLhyphen"/>ly the Chariot.</p>
+               <p>The Antarck Pole is that which is Diametraly oppoſed
+<pb n="4" facs="tcp:165390:4"/>
+                  <!-- PDF PAGE 79 -->to the Article Pole, it is alſo by the Latins called <hi>Auſtralis,</hi> and <hi>Auſtrinus,</hi> and <hi>Notius,</hi> of the wind <hi>Auſter, Notus,</hi> and <hi>Meridionalis,</hi> which is the South wind, its that which is never ſeen in our Hemiſpheare, But hidden under the Horizon.</p>
+               <p>Hemiſpheares are half Sphears.</p>
+               <p>The Circles are divided into great, and little.</p>
+               <p>The great Circles have their center equall with that of the Earth, which they divide in two equall Parts, there are ſix, The <hi>Equinoctiall,</hi> the <hi>Zodiack,</hi> the <hi>Meridien,</hi> the <hi>Horizon,</hi> and the two imperfect Circles.</p>
+               <p>The little Circles have their Center different to that of the Earth, which they divide in two unequall Parts, they are four, the Tropicke of <hi>Cancer,</hi> and the Tropicke of <hi>Capricorne;</hi> The two Pole Circles, <hi>Articke,</hi> and the <hi>Antarticke.</hi>
+               </p>
+            </div>
+            <div n="equinoctial" type="section">
+               <head>Of the Equinoctiall.</head>
+               <p>THE Equinoctiall is a great Circle, equally diſtant from the two Poles of the world.</p>
+               <p>It is called Equinoctiall, becauſe that the Sun making his courſe under it, makes the dayes equall to the nights through all the univerſall earth, which happens when the Sun is at the firſt point of <hi>Aries,</hi> and <hi>Libra.</hi>
+               </p>
+               <p>The Equinoctiall ſerves to ſhew the Latitude of the Towns, which is their diſtance from the Equinoctiall Line.</p>
+               <p>It ſerves to ſhew the <hi>Septentrionall,</hi> and <hi>Meridionall</hi> part.</p>
+               <p>It is divided into 360 parts, which are degrees of longi<g ref="char:EOLhyphen"/>tude, And the Inhabitants which are under this Circle are eſteemed to be in the middle of the world; as farre from the
+<pb n="5" facs="tcp:165390:4"/>
+                  <!-- PDF PAGE 79 -->Articke Pole, as from the Antarticke, having the Sphere ſtraight, and all the Dayes equall to the Nights.</p>
+            </div>
+            <div n="zodiac" type="section">
+               <head>Of the Zodiack.</head>
+               <p>THE Zodiack is a great Circle, divided by the Equi<g ref="char:EOLhyphen"/>noctiall in two parts equally; The part which de<g ref="char:EOLhyphen"/>clines towards the <hi>Septentrion</hi> is called <hi>Septentrionall;</hi> and the ſix figures <hi>Septentrionals;</hi> which are <hi>Aries, Taurus, Gemi<g ref="char:EOLhyphen"/>ni, Cancer, Leo, Virgo.</hi>
+               </p>
+               <p>The part which declines towards South is called Meri<g ref="char:EOLhyphen"/>dionall, and the Meridionals ſignes are <hi>Libra, Scorpius, Sagita<g ref="char:EOLhyphen"/>rius, Capricornus, Aquarius, Piſces.</hi>
+               </p>
+               <p>The Line which is in the midle of the Circle is called Eclip<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>icke, becauſe that the Eclipſes are made under it.</p>
+               <p>It hath in bredth 12 degrees, and 360. degrees in length; Each degree is divided in 60. minutes, every miniute into 60 ſeconds, and every ſecond into 60 thirds, and ſo forth.</p>
+            </div>
+            <div n="meridian" type="section">
+               <head>Of the Meridien.</head>
+               <p>THE Meridien is a great Circle, which paſſes by the Poles of the world; and by the Zenith of the Region of the which its ſaid Meridien.</p>
+               <p>It is called Meridien becauſe that the Sun making its courſe under it, it is Midday in the Region of the which its ſaid Meridien.</p>
+               <p>Zenith is the point which is directly over our heads: It is evident that the Zeniths being infinite, the Meridiens will be alſo infinite, if they doe not meet many Zeniths under
+<pb n="6" facs="tcp:165390:5"/>
+                  <!-- PDF PAGE 80 -->a ſame Meridien: But the Geographers ſets but one by e<g ref="char:EOLhyphen"/>very Town or Province.</p>
+               <p>It ſheweth alſo the difference of the Longitudes, which is the difference from one Meridien to another.</p>
+            </div>
+            <div n="horizon" type="section">
+               <head>Of the Horizon.</head>
+               <p>THe Horizon is a great changeable Circle, which hath the ſame Center as the Earth, which it divides into two equall parts, Superiour and Inferiour: The Superiour part is called hemiſpheare of the day, and the Inferiour he<g ref="char:EOLhyphen"/>miſpheare of the night.</p>
+               <p>The higheſt point in the Horizon is called <hi>Semith</hi> in the <hi>Arabian</hi> tongue, or Pole of the Horizon.</p>
+               <p>Its oppoſite is ſaid nathir: It is evident that the Se<g ref="char:EOLhyphen"/>mith being infinite, the Horizons will be alſo infinite.</p>
+               <p>But the Geographers doe put but one for every Town and Province.</p>
+            </div>
+            <div n="imperfect circles" type="section">
+               <head>Of the two imperfect Circles.</head>
+               <p>THe two imperfect Circles, are two great Circles, cut<g ref="char:EOLhyphen"/>ting one another in ſtraight Angles, at the Poles of the World.</p>
+               <p>The one is called Circle of Solſtice, and the other Circle of Equinox.</p>
+               <p>The Circle of Solſtice, is the Circle which paſſes by the Poles of the World, and by the Solſticall points, which are Cancer and Capricorn.</p>
+               <p>Circle of the Equinox, is the Circle which paſſes by the Poles of the World, and by the Equinoctiall Poles, which are Aries and Libra.</p>
+               <pb n="7" facs="tcp:165390:5"/>
+               <!-- PDF PAGE 80 -->
+               <p>They ſerve to cut the Spheare in foure equall parts, and the year in foure ſeaſons.</p>
+            </div>
+            <div n="Arctic and Antarctic Circles and the Tropics" type="section">
+               <head>Of the foure little Circles.</head>
+               <p>THe foure little Circles of the Spheare, are the two Tro<g ref="char:EOLhyphen"/>picks of Cancer, and of Capricorne. The two Circles of the Pole Artick, and Antartick;</p>
+               <p>The Trophick of Cancer is the Circle which the Sun marks when it is in the firſt point of Capricorne.</p>
+               <p>Theſe Circles are diſtant 23 degrees, 30 minutes from the Equinoctiall; which is the greateſt declining of the Sun.</p>
+               <p>The Circle of the Artick Pole, is the Circle which is mark: by the Pole of the Zodiack about the Pole of the world Artick.</p>
+               <p>The Circle of the Pole Antartick, is the Circle which the Pole of the Zodiack marks about the pole of the world An<g ref="char:EOLhyphen"/>tartick.</p>
+               <p>Theſe Circles are 23 degrees, 30 minutes diſtant from the Poles of the World.</p>
+               <p>Theſe Circles divide the Earth into five Zones.</p>
+               <p>That which is between the Tropick is called Torride, be<g ref="char:EOLhyphen"/>cauſe of the continuall preſence of the Sun, and hath of breath 47 degrees.</p>
+               <p>Thoſe which are between the two Circles of the Poles, are called cold, by the farnes of the Sun, and are of 47 degrees.</p>
+               <p>Thoſe which are between the Pole Circle and the Tro<g ref="char:EOLhyphen"/>pick, are called temperate, becauſe they participate of the two others, and have each one 43 degrees of breadth.</p>
+            </div>
+            <div n="climates" type="section">
+               <pb n="8" facs="tcp:165390:6"/>
+               <!-- PDF PAGE 81 -->
+               <head>Of the Clymats.</head>
+               <p>A Climat is the ſpace of the Earth, in the which the daies vary of a half hour.</p>
+               <p>The Climats begin at the Equinoctiall, and finiſh at the Circle of the Pole; therefore it is that there are 24 Climats, becauſe that under the Equinoctiall the longeſt dayes are of twelve houres, and under the Circle of the Pole the greateſt day is of 24 houres, which are 24 half houres, and there<g ref="char:EOLhyphen"/>fore 24 Climats.</p>
+               <p>Thoſe that have ſet but 7 or 8 Climats have put but thoſe of the earth which they knew.</p>
+               <p>
+                  <hi>Ptolomee</hi> hath put 48. but he hath made them of quarters of houres, which are named Parallels.</p>
+               <p>Others have put 36, 24. to the Circle of the Pole, and 12. from the ſaid Circle to the Pole, but they have made the Climates of 15. to 15. dayes.</p>
+               <p>The Ancients named the Climates by the places where they did paſſe, as by <hi>Meroes, Syene, Alexandria, Rhodes, Roma, Boriſthenes</hi> and the Montagnes of <hi>Riphaes.</hi>
+               </p>
+               <p>The Degrees are of two ſorts; of Longitude and of Latitude:</p>
+               <p>The degrees of Longitude are innumber of 360.</p>
+               <p>The degrees of Latitude in the ſame number.</p>
+               <p>The Inhabitants of the Earth are conſidered according to their ſhadowes, or according to their poſitions and ſears; The Inhabitants (according to their ſhadowes) are <hi>Amphiſci<g ref="char:EOLhyphen"/>ens</hi> in the Torrid Zone, <hi>Heteroſciens</hi> in the temperate Zone, and <hi>Periſciens</hi> in the cold Zone; all theſe names come from the Greek tongue.</p>
+               <p>The <hi>Amphiſciens</hi> have two ſorts of ſhadowes.</p>
+               <p>The <hi>Heteroſciens</hi> have only the one, or the other.</p>
+               <pb n="9" facs="tcp:165390:6"/>
+               <!-- PDF PAGE 81 -->
+               <p>And the <hi>Periſciens</hi> have it round about them.</p>
+               <p>The conſiderations of the Inhabitants according, the Poſitions are of three Sorts; <hi>Periecians</hi> or cohabitants in a ſame Parallel, and Meriden; But at the points of the ſame oppoſed Paralled, <hi>Anticiens,</hi> and Contr' habitants in a ſame half of Meridien, and in divers Parallels equally diſtant of the Equator. And Antipodes, in the parts of the Earth di<g ref="char:EOLhyphen"/>ametrally oppoſed.</p>
+               <p>The Regions or Quarters of the world are foure principall, <hi>Septentrio, Meridies, Oriens,</hi> and <hi>Occidens.</hi>
+               </p>
+               <p>The principall Winds are North, South, Eſt, and Weſt; correſpondent to the aforeſaid Regions.</p>
+            </div>
+            <div n="measures" type="list">
+               <head>The Meaſures.</head>
+               <list>
+                  <item>THE Point is the leaſt partie.</item>
+                  <item>The Line conſiſts in many continued points.</item>
+                  <item>The Line properly, or according, the Mathimaticiens hath no breadth.</item>
+                  <item>The Surface conſiſts in many Lines.</item>
+                  <item>The Body or Solid in many Surfaces.</item>
+                  <item>The Inch comprehends twelve Lines: theſe Lines have the breadth of a grain of Corn.</item>
+                  <item>The Foot twelve Inches.</item>
+                  <item>The Cubit a Foot and a half.</item>
+                  <item>The Fadome ſix Foot.</item>
+                  <item>The Pearch 18 or 20 Foot.</item>
+                  <item>The Common Pace two Foot and a half.</item>
+                  <item>The Geometricall Pace five Foot.</item>
+                  <item>The Roman Mile is a thouſand Geometricall Paces.</item>
+                  <item>The Grecian Stade a hundred and five and twenty Paces.</item>
+                  <item>The Perſian Paraſangne, three thouſand ſeven hundred and fifty!</item>
+                  <pb n="10" facs="tcp:165390:7"/>
+                  <!-- PDF PAGE 82 -->
+                  <item>The Egyptian Schene is of three different ſorts, two thou<g ref="char:EOLhyphen"/>ſand five hundred, five thouſand, and of ſeven thouſand five hundred.</item>
+                  <item>The <hi>Spaniſh</hi> league three thouſand foure hundred.</item>
+                  <item>The common <hi>French</hi> league, two thouſand five hundred.</item>
+                  <item>The <hi>Switzers</hi> league, five thouſand.</item>
+                  <item>The <hi>Italian</hi> mile, a thouſand.</item>
+                  <item>The <hi>German</hi> league foure thouſand.</item>
+                  <item>The <hi>Swediſh</hi> league, five thouſand.</item>
+                  <item>The <hi>Hungarian</hi> league, ſix thouſand.</item>
+                  <item>The <hi>Engliſh</hi> mile, a thouſand two hunderd.</item>
+                  <item>The degree of latitude, threeſcore thouſand.</item>
+                  <item>The degree of Longitude (under the Equator) threeſcore thouſand.</item>
+                  <item>The circumference of the Terreſtriall Globe, one and twenty millions, ſix hundred thouſand.</item>
+                  <item>The Diameter of the Tereſtriall Globe, ſeven millions one hundred ſeven an fifty thouſand five hundred, or there about.</item>
+                  <item>The Surface is, one hundred ſeventy foure thouſand milli<g ref="char:EOLhyphen"/>ons, of millions, two and forty thouſand millions.</item>
+                  <item>The ſolidity is the ſurface multiplied by the third of the Diameter.</item>
+                  <item>For every degree of Latitude, or of Longitude, under the Equator, is taken moſt commonly 60 minites, 60 thouſand Geometricall Paces.</item>
+                  <item>Threeſcore <hi>Roman</hi> miles.</item>
+                  <item>Four hundred and fourſcore <hi>Grecian</hi> ſtades.</item>
+                  <item>Sixteen <hi>Perſian</hi> Paraſangues.</item>
+                  <item>Fifty ancient <hi>French</hi> leagues.</item>
+                  <item>Seventeen <hi>Spaniſh</hi> leagues and a half.</item>
+                  <item>Four and twenty, or five and twenty common <hi>French</hi> leagues</item>
+                  <pb n="11" facs="tcp:165390:7"/>
+                  <!-- PDF PAGE 82 -->
+                  <item>Twelve leagues of <hi>Switzerland.</hi>
+                  </item>
+                  <item>Threeſcore miles of <hi>Italy.</hi>
+                  </item>
+                  <item>Fifteen <hi>German</hi> miles or leagues.</item>
+                  <item>Twelve <hi>Swediſh</hi> leagues.</item>
+                  <item>Ten <hi>Hungarian</hi> leagues.</item>
+                  <item>Five and fifty miles of <hi>England.</hi>
+                  </item>
+                  <item>Fifty miles of <hi>Scotland.</hi>
+                  </item>
+               </list>
+            </div>
+            <div n="geography" type="glossary">
+               <head>The proper terms belonging to Geographie, are</head>
+               <p>THe Sea, Gulfe, Strait, Iſle, Peninſula, Iſtmus, Continent, Promontory or Cape.</p>
+               <p>The Sea is the Infinite concourſe of Water which covers an infinite ſpace of the ſurface of the Earth, which is divided into many parts, and receives divers names, according to the lands and people which joyns it (as we ſhall ſhew hereafter.</p>
+               <p>Gulf, is a great overture in the Earth, longer then broader where the Sea enters.</p>
+               <p>Strait (which is called in Latin <hi>fretum</hi>) is a forced Sea between two Lands, which maketh great noiſe, by reaſon of its agitation.</p>
+               <p>Iſle, is a Portion of Earth invironed on all ſides by the Sea.</p>
+               <p>Peninſula is a portion of Earth invironed by the Sea, ſaving that by ſome little part, it is faſtened to another Land.</p>
+               <p>Iſtmus, is the little part of Earth which faſtens the Peninſu<g ref="char:EOLhyphen"/>la to the firme Land.</p>
+               <p>Continent, is the firm Land, which is neither Iſle nor Pe<g ref="char:EOLhyphen"/>ninſula, nor Iſtmus.</p>
+               <pb n="12" facs="tcp:165390:8"/>
+               <!-- PDF PAGE 83 -->
+               <p>Promontorie, is the higheſt part of the point of the Earth, which advances in the Sea, and which is diſcovered far off; its that which is commonly called Cape.</p>
+            </div>
+            <argument>
+               <p>The next Lecture of <hi>Geographie</hi> ſhall be the deſcription of all the parts of the Tereſtriall Globe.</p>
+            </argument>
+         </div>
+      </body>
+   </text>
+</TEI>
